@@ -1,0 +1,16 @@
+Week	Date	Phase	Main Tasks	Deliverable	Status
+Week 1	2026-05-14	Project Selection	Finalize EcoShade Smart Shade Controller concept; choose SparkFun Qwiic Motor Driver; complete first class sheet; post sensor/effector choice on Blackboard	Project idea selected and discussion post completed	Planned
+Week 2	2026-05-21	BOM and Roadmap	Finalize DigiKey cart; order motor driver, geared DC motor, battery holder, Qwiic/Grove cables, standoffs, and screws; submit proof of purchase; create project roadmap	BOM, proof of purchase, and roadmap submitted	Planned
+Week 3	2026-05-28	KiCad and PCB Planning	Start KiCad schematic; add Raspberry Pi stacking header; add Grove/Qwiic connector; add mounting holes; route I2C SDA/SCL, 3.3V, and GND	PCB schematic/layout draft and Gerber files	Planned
+Week 4	2026-06-04	Mechanical and Enclosure Planning	Plan enclosure; design motor mount; design spool/string shade mechanism; plan cable routing and standoff placement	Case/enclosure design concept	Planned
+Week 5	2026-06-11	PCB Assembly Part 1	Practice soldering; solder resistors/components; inspect solder joints; verify basic PCB connections	Partially assembled PCB	Planned
+Week 6	2026-06-18	PCB Assembly Part 2	Solder vias and connectors; verify continuity; prepare PCB for Raspberry Pi and Qwiic motor driver testing	Fully assembled PCB	Planned
+Week 7	2026-06-25	Enclosure and Hardware Assembly	Mount Raspberry Pi, PCB, motor driver, standoffs, wiring, and motor support structure; begin integrated assembly	Integrated hardware assembly	Planned
+Reading Week	2026-07-01	Parts Arrival and Catch-Up	Verify ordered parts; fix missing items; test loose components; improve mechanical shade mechanism	Ready-to-test hardware	Planned
+Week 8	2026-07-09	Firmware Coding	Enable I2C on Raspberry Pi; detect motor driver address; write Python motor control code; test forward, reverse, and stop commands	Python motor control working	Planned
+Week 9	2026-07-16	PCB Assembly and Testing	Test PCB connections; test Qwiic communication; test motor power; calibrate timed shade movement	Stable prototype test	Planned
+Week 10	2026-07-23	Presentation Slides	Create system diagram, wiring diagram, power explanation, PCB explanation, photos, and demo plan	Presentation slides completed	Planned
+Week 11	2026-07-30	Troubleshooting	Debug wiring, motor timing, power issues, communication issues, and mechanical reliability	Improved final prototype	Planned
+Week 12	2026-08-06	Functioning Hardware Demonstration	Demonstrate motor forward/reverse/stop; demonstrate shade open/close and timed positions	Working hardware demonstration	Planned
+Week 13	2026-08-13	Final Oral Presentation	Present EcoShade concept, hardware choices, PCB role, power system, software control, and final demo	Final oral presentation	Planned
+Week 14	2026-08-20	Build Instructions and Hardware Report	Document parts, wiring, PCB assembly, enclosure, software setup, testing, troubleshooting, and future improvements	Final hardware report and build instructions	Planned
